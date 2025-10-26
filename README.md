@@ -1,4 +1,4 @@
-# PleasureCraft - A Deep Dive into the Mod
+# PleasureCraft
 
 ## Introduction
 
